@@ -8,4 +8,6 @@ This is a simple Node.js script that is indended to be used with AWS Lambda and 
 
 ## Where can I see it action?
 
-It is available at [https://wurde-hotsprings.io-schon-umgezogen.wtf](https://wurde-hotsprings.io-schon-umgezogen.wtf).
+~~It is available at [https://wurde-hotsprings.io-schon-umgezogen.wtf](https://wurde-hotsprings.io-schon-umgezogen.wtf).~~
+
+It is available at [https://xbb4maeggk.execute-api.eu-central-1.amazonaws.com/Production](https://xbb4maeggk.execute-api.eu-central-1.amazonaws.com/Production).
